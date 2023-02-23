@@ -1,0 +1,13 @@
+﻿
+String[] Estudiantes = {"omar","roku","vengador"};
+for (int i=0; i < Estudiantes.Length; i++) {
+    Console.WriteLine(Estudiantes[i]);
+}
+
+#region bucles
+//mario edgardo alas gonzalez
+//stiven es shucoooo
+//gerson es humilde
+#endregion
+
+
